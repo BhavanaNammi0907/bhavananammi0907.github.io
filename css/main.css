@@ -945,9 +945,9 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 }
 .skill-bars li {
 	height: .6rem;
-	background: #a1a1a1;
+	/* background: #a1a1a1; */
 	width: 100%;
-	margin-bottom: 6rem;
+	margin-bottom: 3rem;
 	padding: 0;
 	position: relative;
 }
